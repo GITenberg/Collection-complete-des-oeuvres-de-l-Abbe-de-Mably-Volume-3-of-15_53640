@@ -1,0 +1,39 @@
+_repo: Collection-complete-des-oeuvres-de-l-Abbe-de-Mably-Volume-3-of-15_53640
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mably, Gabriel Bonnot de
+    aliases:
+    - De Mably, Gabriel Bonnot
+    - Bonnot de Mably, Gabriel
+    - Mably, Abbe de
+    - Mably, Abbé de
+    birthdate: 1709
+    deathdate: 1785
+    gutenberg_agent_id: '47301'
+    url: http://www.gutenberg.org/2009/agents/47301
+  editor:
+    agent_name: Arnoux, Guillaume
+    gutenberg_agent_id: '48137'
+    url: http://www.gutenberg.org/2009/agents/48137
+description: ''
+gutenberg_bookshelf:
+- FR Histoire
+- FR Philosophie, Religion et Morale
+- FR Politique
+gutenberg_issued: '2016-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53640'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Philosophy'
+- !lcsh 'Political science'
+- !lcc 'D'
+- !lcsh 'Law -- Philosophy'
+- GITenberg
+title: Collection complète des oeuvres de l'Abbé de Mably, Volume 3 (of 15)
+url: http://www.gutenberg.org/ebooks/53640
